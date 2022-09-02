@@ -2,7 +2,7 @@ altair
 mplfinance
 numpy
 pandas
-pandas-datareader
+pandas_datareader
 Pillow
 plotly
 scikit-learn
